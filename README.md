@@ -1,3 +1,6 @@
+# React mini project 1 - Expense Tracker
+Expense Tracker App: A simple application for managing your finances effortlessly. Easily record your expenses and income, and instantly view your total balance, earnings, and expenditures at a glance. React Concepts used - Context API , Hooks - useReducer , useState , useContext
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
