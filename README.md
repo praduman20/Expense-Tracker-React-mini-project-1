@@ -1,5 +1,5 @@
 # React mini project 1 - Expense Tracker
-Expense Tracker App: A simple application for managing your finances effortlessly. Easily record your expenses and income, and instantly view your total balance, earnings, and expenditures at a glance. React Concepts used - Context API , Hooks - (useReducer , useState , useContext).
+Expense Tracker: A simple application for managing your finances effortlessly. Easily record your expenses and income, and instantly view your total balance, earnings, and expenditures at a glance. React Concepts used - Context API , Hooks - (useReducer , useState , useContext).
 
 ## Demo Link - https://simplifyexpense.netlify.app/
 
